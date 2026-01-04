@@ -270,6 +270,13 @@ body {
   border: 1px solid var(--border-color);
 }
 
+.publication-video video {
+  width: 100%;
+  border-radius: 16px;
+  background: #000;
+}
+
+
 .results-carousel .item:hover {
   transform: translateY(-4px);
   box-shadow: var(--shadow-lg);
